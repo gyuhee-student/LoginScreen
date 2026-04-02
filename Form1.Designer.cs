@@ -45,7 +45,7 @@
             lblAppName.Size = new Size(617, 149);
             lblAppName.TabIndex = 1;
             lblAppName.Text = "Login";
-            lblAppName.Click += ｌｂｌ_Click;
+            lblAppName.Click += lbl_Click;
             // 
             // txtID
             // 

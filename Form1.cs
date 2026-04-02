@@ -7,7 +7,7 @@ namespace LoginScreen
             InitializeComponent();
         }
 
-        private void ｌｂｌ_Click(object sender, EventArgs e)
+        private void lbl_Click(object sender, EventArgs e)
         {
 
         }
@@ -102,6 +102,8 @@ namespace LoginScreen
             }
         }
 
+
+        
         private void label1_Click(object sender, EventArgs e)
         {
 
